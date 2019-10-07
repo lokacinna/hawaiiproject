@@ -1,0 +1,16 @@
+body {
+  padding:20px;
+}
+
+.chart{
+  height:400px;
+  padding: 10px;
+  padding-bottom: 30px;
+}
+
+
+.half-chart{
+  height:400px;
+  width:45%;
+  padding: 10px;
+}
